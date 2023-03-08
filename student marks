@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Student Table</title>
+</head>
+<body>
+
+	<h1>Betty's Student Mark's table</h1>
+
+	<table>
+		<tr>
+			<th>Student Name</th>
+			<th>Admission Number</th>
+			<th>JCM 407</th>
+			<th>JCM 408</th>
+			<th>JCM 411</th>
+			<th>JCM 410</th>
+		</tr>
+		<tr>
+			<td>Betty Imokat</td>
+			<td>BJM/B/01-57816/2019</td>
+			<td>75</td>
+			<td>75</td>
+			<td>40</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>Jane Omondi</td>
+			<td>BJM/B/01-57820/2019</td>
+			<td>40</td>
+			<td>40</td>
+			<td>50</td>
+			<td>75</td>
+		</tr>
+		<tr>
+			<td>David Sar</td>
+			<td>BJM/B/01-57790/2019</td>
+			<td>70</td>
+			<td>60</td>
+			<td>39</td>
+			<td>75</td>
+		</tr>
+		<tr>
+			<td>Sarah Kimani</td>
+			<td>BJM/B/01-57815/2019</td>
+			<td>75</td>
+			<td>60</td>
+			<td>45</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>Mark Olte</td>
+			<td>BJM/B/01-57840/2019</td>
+			<td>70</td>
+			<td>75</td>
+			<td>70</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>Emily Kiondo</td>
+			<td>BJM/B/01-57799/2019</td>
+			<td>65</td>
+			<td>50</td>
+			<td>75</td>
+			<td>55</td>
+		</tr>
+	</table>
+
+</body>
+<center>
+<a href="Elizabeth.html">Elizabeth</a>
+<a href="http://www.google.com">Google </a>
+</center>
+</html>
